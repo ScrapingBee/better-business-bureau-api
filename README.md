@@ -2,9 +2,10 @@
 
 <p align="center">
   <a href="https://www.scrapingbee.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="better-business-bureau-api" />
+    <img src="https://github.com/user-attachments/assets/b2a32eab-397a-45b6-87b5-6608af3eb8bd" alt="better-business-bureau-api" />
   </a>
 </p>
+
 
 [![checks](https://github.com/ScrapingBee/better-business-bureau-api/workflows/checks/badge.svg)](https://github.com/ScrapingBee/better-business-bureau-api/actions)
 [![license](https://img.shields.io/github/license/ScrapingBee/better-business-bureau-api.svg)](LICENSE)
